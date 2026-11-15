@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+/input/
+/output/
+/done/
+/cache/
+/tmp/
+/tmp_dl/
+/downloaded.txt
+/models/*.onnx
