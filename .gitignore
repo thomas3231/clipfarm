@@ -11,3 +11,4 @@ __pycache__/
 /tmp_dl/
 /downloaded.txt
 /models/*.onnx
+/audio/*.mp3
